@@ -1,0 +1,51 @@
+Afrique du Sud;440,360
+Allemagne;398,175
+Arabie saoudite;480,230
+Australie;700,350
+Bahamas;210,243
+Bangladesh;590,240
+Bolivie;225,330
+Brésil;275,320
+Brunéi Darussalam;648,288
+Burkina Faso;375,265
+Burundi;450,310
+Cambodge;627,270
+Chili;215,380
+Chine;630,230
+Côte d'Ivoire;365,280
+Émirats arabes unis;507,240
+Espagne;375,200
+États-Unis;150,200
+Fédération de Russie;550,150
+France;387,185
+Ghana;375,280
+Haïti;211,252
+Inde;565,250
+Indonésie;650,302
+Irlande;362,164
+Italie;415,200
+Japon;700,210
+Koweït;503,230
+Libye;420,230
+Malaisie;622,283
+Mexique;148,245
+Moldova;445,188
+Myanmar;608,250
+Népal;575,232
+Niger;395,255
+Norvège;400,145
+Pakistan;535,230
+Pays-Bas;390,171
+République arabe syrienne;468,215
+République centrafricaine;425,275
+Corée République de;675,210
+République démocratique populaire laos;623,253
+Singapour;630,290
+Soudan du Sud;460,280
+Suisse;395,183
+Tchad;417,265
+Thaïlande;620,265
+Tunisie;405,215
+Turquie;450,205
+Viet Nam;637,265
+- FIN -

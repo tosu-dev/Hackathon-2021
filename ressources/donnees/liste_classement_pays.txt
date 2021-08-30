@@ -1,0 +1,4 @@
+Afrique du Sud;Allemagne;Australie;Brésil;Chili;Chine;Corée République de;Espagne;États-Unis;Fédération de Russie;France;Inde;Irlande;Italie;Japon;Mexique;Norvège;Pays-Bas;Singapour;Suisse;
+Arabie saoudite;Bahamas;Cambodge;Côte d’Ivoire;Émirats arabes unis;Haïti;Indonésie;Libye;Malaisie;Pakistan;République arabe syrienne;Thaïlande;Tunisie;Turquie;Viet Nam;
+Bangladesh;Bolivie;Brunéi Darussalam;Burkina Faso;Burundi;Ghana;Koweït;Moldova;Myanmar;Népal;Niger;République centrafricaine;République démocratique populaire laos;Soudan du Sud;Tchad;
+ - FIN -
